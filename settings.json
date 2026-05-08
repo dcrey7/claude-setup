@@ -1,0 +1,11 @@
+{
+  "skipDangerousModePermissionPrompt": true,
+  "theme": "dark",
+  "enabledPlugins": {
+    "swift-lsp@claude-plugins-official": true
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bash ~/.claude/statusline.sh"
+  }
+}
